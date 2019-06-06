@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "登录模板",
+  "usingComponents": {
+    "tki-qrcode": "/components/tki-qrcode/tki-qrcode"
+  }
+}
